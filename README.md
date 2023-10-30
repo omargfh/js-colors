@@ -1,4 +1,4 @@
-# npm js-colors
+# npm real-colors
 ## A utility library for working with colors in JavaScript.
 
 ![81% Coverage](https://img.shields.io/badge/coverage-81%25-yellowgreen.svg)
@@ -7,17 +7,17 @@
 
 ## Installation
 ```bash
-npm install js-colors
+npm install real-colors
 ```
 or
 ```bash
-yarn add js-colors
+yarn add real-colors
 ```
 
 ## API
 ### Generate Color Client
 ```typescript
-import { createColorInstance } from 'js-colors';
+import { createColorInstance } from 'real-colors';
 // You may pass in a color map to createColorInstance
 const Color = createColorInstance({ myColor: '#ff00ff' });
 // Sample usage

@@ -1,5 +1,5 @@
 {
-  "name": "js-colors",
+  "name": "real-colors",
   "version": "1.0.1",
   "description": "Color utility for Javascript",
   "main": "src/index.ts",
