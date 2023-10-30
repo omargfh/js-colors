@@ -1,5 +1,5 @@
-npm_modules/
 node_modules/
-DS_Store
-.DS_Store
+coverage/
 package-lock.json
+.env
+src/
